@@ -19,7 +19,7 @@
     "@nuxt3-graphql/urql": "0.4.0",
     "@nuxtjs/partytown": "1.2.1",
     "@urql/vue": "0.6.2",
-    "@vueuse/nuxt": "8.5.0",
+    "@vueuse/nuxt": "8.6.0",
     "graphql": "16.5.0",
     "helmet": "5.1.0",
     "nuxt": "3.0.0-rc.3",
