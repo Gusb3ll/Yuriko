@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "0.25.0",
-    "@commitlint/cli": "17.0.1",
-    "@commitlint/config-conventional": "17.0.0",
+    "@commitlint/cli": "17.0.2",
+    "@commitlint/config-conventional": "17.0.2",
     "concurrently": "7.2.1",
     "eslint": "8.16.0",
     "husky": "8.0.1",
