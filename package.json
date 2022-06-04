@@ -23,7 +23,7 @@
     "@commitlint/cli": "17.0.2",
     "@commitlint/config-conventional": "17.0.2",
     "concurrently": "7.2.1",
-    "eslint": "8.16.0",
+    "eslint": "8.17.0",
     "husky": "8.0.1",
     "turbo": "latest",
     "typescript": "4.7.3"
