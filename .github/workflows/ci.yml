@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Setup node 🏗
-        uses: actions/setup-node@v3.2.0
+        uses: actions/setup-node@v3.3.0
         with:
           node-version: ${{ matrix.node }}
           cache: 'yarn'
@@ -48,7 +48,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Setup node 🏗
-        uses: actions/setup-node@v3.2.0
+        uses: actions/setup-node@v3.3.0
         with:
           node-version: ${{ matrix.node }}
           cache: 'yarn'
@@ -77,7 +77,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Setup node 🏗
-        uses: actions/setup-node@v3.2.0
+        uses: actions/setup-node@v3.3.0
         with:
           node-version: ${{ matrix.node }}
           cache: 'yarn'
@@ -110,7 +110,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Setup node 🏗
-        uses: actions/setup-node@v3.2.0
+        uses: actions/setup-node@v3.3.0
         with:
           node-version: ${{ matrix.node }}
           cache: 'yarn'
