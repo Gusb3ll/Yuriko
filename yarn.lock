@@ -1483,10 +1483,10 @@
     "@graphql-typed-document-node/core" "^3.1.1"
     wonka "^4.0.14"
 
-"@urql/vue@0.6.2":
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/@urql/vue/-/vue-0.6.2.tgz#991b474644bbcc11322eab68f9ff41ca3eff4bb2"
-  integrity sha512-hrVysup75sgnNgOhhvVfI2ChOM1JDx+/+D9qKIKrTHn/IsykIjm9IrYK5+CcYoQmzXX6lfnJ8d1F3uu8k4flyA==
+"@urql/vue@0.6.3":
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/@urql/vue/-/vue-0.6.3.tgz#8338f254c66eb77af0ea8427de92484f928b9848"
+  integrity sha512-y37tzbflqHCVUjTAAcqYApj8jB9pQjU1TaiCTsWn0WCr+VS7sgUsQ1Sc1yZtViEgiy+DobuyVplldyH/sUe12A==
   dependencies:
     "@urql/core" "^2.3.6"
     wonka "^4.0.14"
