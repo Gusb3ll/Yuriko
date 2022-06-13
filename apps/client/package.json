@@ -14,7 +14,7 @@
   "devDependencies": {
     "@iconify/vue": "3.2.1",
     "@lhci/cli": "0.9.0",
-    "@nuxt/vite-builder": "3.0.0-rc.3",
+    "@nuxt/vite-builder": "3.0.0-rc.4",
     "@nuxt3-graphql/urql": "0.4.0",
     "@urql/vue": "0.6.3",
     "@vueuse/nuxt": "8.6.0",
