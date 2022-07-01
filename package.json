@@ -6,7 +6,7 @@
     "apps/*",
     "packages/*"
   ],
-  "packageManager": "yarn@4.0.0-rc.10",
+  "packageManager": "yarn@4.0.0-rc.11",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
