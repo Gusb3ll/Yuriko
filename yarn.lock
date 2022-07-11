@@ -1219,33 +1219,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nuxt/kit@npm:3.0.0-rc.3":
-  version: 3.0.0-rc.3
-  resolution: "@nuxt/kit@npm:3.0.0-rc.3"
-  dependencies:
-    "@nuxt/schema": "npm:^3.0.0-rc.3"
-    c12: "npm:^0.2.7"
-    consola: "npm:^2.15.3"
-    defu: "npm:^6.0.0"
-    globby: "npm:^13.1.1"
-    hash-sum: "npm:^2.0.0"
-    ignore: "npm:^5.2.0"
-    jiti: "npm:^1.13.0"
-    knitwork: "npm:^0.1.1"
-    lodash.template: "npm:^4.5.0"
-    mlly: "npm:^0.5.2"
-    pathe: "npm:^0.3.0"
-    pkg-types: "npm:^0.3.2"
-    scule: "npm:^0.2.1"
-    semver: "npm:^7.3.7"
-    unctx: "npm:^1.1.4"
-    unimport: "npm:^0.1.9"
-    untyped: "npm:^0.4.4"
-  checksum: fbf3fa17386a271a24ee9d4c93633ea9f3e571209f5c4f9963d6a69ce3cb1401a7e3238969d46e89439dbfd038525f3f9fc2b033081371aaab45ef3ff39d1a2b
-  languageName: node
-  linkType: hard
-
-"@nuxt/kit@npm:^3.0.0-rc.4":
+"@nuxt/kit@npm:3.0.0-rc.4, @nuxt/kit@npm:^3.0.0-rc.4":
   version: 3.0.0-rc.4
   resolution: "@nuxt/kit@npm:3.0.0-rc.4"
   dependencies:
@@ -1271,7 +1245,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nuxt/schema@npm:^3.0.0-rc.1, @nuxt/schema@npm:^3.0.0-rc.3, @nuxt/schema@npm:^3.0.0-rc.4":
+"@nuxt/schema@npm:^3.0.0-rc.1, @nuxt/schema@npm:^3.0.0-rc.4":
   version: 3.0.0-rc.4
   resolution: "@nuxt/schema@npm:3.0.0-rc.4"
   dependencies:
@@ -2486,7 +2460,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@windicss/plugin-utils@npm:1.8.6, @windicss/plugin-utils@npm:^1.1.1, @windicss/plugin-utils@npm:^1.8.4":
+"@windicss/plugin-utils@npm:1.8.6, @windicss/plugin-utils@npm:^1.1.1, @windicss/plugin-utils@npm:^1.8.6":
   version: 1.8.6
   resolution: "@windicss/plugin-utils@npm:1.8.6"
   dependencies:
@@ -3461,7 +3435,7 @@ __metadata:
     "@vueuse/nuxt": "npm:8.9.1"
     graphql: "npm:16.5.0"
     nuxt: "npm:3.0.0-rc.4"
-    nuxt-windicss: "npm:2.4.2"
+    nuxt-windicss: "npm:2.4.3"
     vite: "npm:2.9.14"
     vue: "npm:3.2.37"
   languageName: unknown
@@ -6051,7 +6025,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"h3@npm:^0.7.10, h3@npm:^0.7.8, h3@npm:^0.7.9":
+"h3@npm:^0.7.10, h3@npm:^0.7.9":
   version: 0.7.10
   resolution: "h3@npm:0.7.10"
   dependencies:
@@ -7142,7 +7116,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"listhen@npm:^0.2.11, listhen@npm:^0.2.13":
+"listhen@npm:^0.2.13":
   version: 0.2.13
   resolution: "listhen@npm:0.2.13"
   dependencies:
@@ -8188,25 +8162,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nuxt-windicss@npm:2.4.2":
-  version: 2.4.2
-  resolution: "nuxt-windicss@npm:2.4.2"
+"nuxt-windicss@npm:2.4.3":
+  version: 2.4.3
+  resolution: "nuxt-windicss@npm:2.4.3"
   dependencies:
-    "@nuxt/kit": "npm:3.0.0-rc.3"
-    "@windicss/plugin-utils": "npm:^1.8.4"
+    "@nuxt/kit": "npm:3.0.0-rc.4"
+    "@windicss/plugin-utils": "npm:^1.8.6"
     consola: "npm:^2.15.3"
     defu: "npm:^6.0.0"
     fs-extra: "npm:^10.1.0"
-    h3: "npm:^0.7.8"
-    listhen: "npm:^0.2.11"
-    pathe: "npm:^0.3.0"
+    h3: "npm:^0.7.10"
+    listhen: "npm:^0.2.13"
+    pathe: "npm:^0.3.2"
     read-cache: "npm:^1.0.0"
     sirv: "npm:^2.0.2"
-    vite-plugin-windicss: "npm:^1.8.4"
-    windicss: "npm:^3.5.4"
+    vite-plugin-windicss: "npm:^1.8.6"
+    windicss: "npm:^3.5.6"
     windicss-analysis: "npm:^0.3.5"
-    windicss-webpack-plugin: "npm:^1.7.3"
-  checksum: c75834d3865bb6a19a93c325fd567b7613a60641bc8a354726d31bc24677ec5bdc40e4a816e6633dae49e6ac458522bd647ea3a59fa7bd0ce5dbcf834b3a9538
+    windicss-webpack-plugin: "npm:^1.7.4"
+  checksum: dec3f939dbab0ab87003e32c75baa9412a1ebf699448b0ce007ffa0f6c4c351bcfaeb362d9384efb11a79415137fa887b771b9530cde7f2054e0bd851802dd4b
   languageName: node
   linkType: hard
 
@@ -11048,7 +11022,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unimport@npm:^0.1.6, unimport@npm:^0.1.9":
+"unimport@npm:^0.1.6":
   version: 0.1.9
   resolution: "unimport@npm:0.1.9"
   dependencies:
@@ -11349,7 +11323,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-windicss@npm:^1.8.4":
+"vite-plugin-windicss@npm:^1.8.6":
   version: 1.8.6
   resolution: "vite-plugin-windicss@npm:1.8.6"
   dependencies:
@@ -11664,23 +11638,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"windicss-webpack-plugin@npm:^1.7.3":
-  version: 1.7.3
-  resolution: "windicss-webpack-plugin@npm:1.7.3"
+"windicss-webpack-plugin@npm:^1.7.4":
+  version: 1.7.4
+  resolution: "windicss-webpack-plugin@npm:1.7.4"
   dependencies:
-    "@windicss/plugin-utils": "npm:^1.8.4"
+    "@windicss/plugin-utils": "npm:^1.8.6"
     debug: "npm:^4.3.4"
     get-port: "npm:^6.1.2"
     loader-utils: "npm:^2.0.0"
     lodash: "npm:^4.17.21"
     pathe: "npm:^0.2.0"
     webpack-virtual-modules: "npm:^0.4.3"
-    windicss: "npm:^3.5.4"
-  checksum: dbc64f60e814aec7a9b753066ed146449b68d796694510610d14782d7d70866ac0e546a4796a265557456596d11e586d912c95584c09bf33a5b0416af0d4d16c
+    windicss: "npm:^3.5.6"
+  checksum: 8a8891ebe7ee27088928277f25377c540fc8110860db2be66899682ab9c7dd99de7b802e9f64726f6ce206810c66529e74115109b05e7d9b85d1cc7680e301c1
   languageName: node
   linkType: hard
 
-"windicss@npm:^3.5.4, windicss@npm:^3.5.6":
+"windicss@npm:^3.5.6":
   version: 3.5.6
   resolution: "windicss@npm:3.5.6"
   bin:
