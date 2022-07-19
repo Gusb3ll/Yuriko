@@ -6,7 +6,7 @@
     "apps/*",
     "packages/*"
   ],
-  "packageManager": "pnpm@5.7.2",
+  "packageManager": "pnpm@5.18.11",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
