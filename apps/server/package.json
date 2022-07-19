@@ -16,7 +16,7 @@
     "compression": "1.7.4",
     "cors": "2.8.5",
     "express": "4.18.1",
-    "graphql": "15.8.0",
+    "graphql": "16.5.0",
     "graphql-voyager": "1.0.0-rc.31",
     "helmet": "5.1.0",
     "reflect-metadata": "0.1.13",
